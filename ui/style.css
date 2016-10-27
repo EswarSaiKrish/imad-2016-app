@@ -4,12 +4,17 @@ body {
     margin-top: 75px;
 }
 
+.head {
+    color: blue;
+    text-align: center;
+}
+
 .center {
     text-align: center;
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 200%;
 }
 
 .bold {
@@ -20,3 +25,13 @@ body {
     height: 200px;
 }
 
+.sample
+{
+ width:580px; 
+ height:400px ;  
+}
+
+.image {
+    width:580px;
+    height:400px;
+}
